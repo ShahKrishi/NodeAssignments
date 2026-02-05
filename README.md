@@ -28,6 +28,3 @@ In this assignment, I have build a small system which:
 ● Watch file changes in real time
 
 ● Safe path handling using the path module
-
-# Main Branch - Develop
-# Assignment 2 - Branch - origin/assignment-unit-3
