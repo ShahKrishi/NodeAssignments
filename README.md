@@ -19,8 +19,6 @@ In this assignment, I have build a small backend system that can:
 
 In this assignment, I have build a small system which:
 
-The tool includes the following mandatory functionalities:
-
 ● Read large files using streams to avoid loading the entire file into memory
 
 ● Copy files using stream piping
@@ -31,3 +29,5 @@ The tool includes the following mandatory functionalities:
 
 ● Safe path handling using the path module
 
+# Main Branch - Develop
+# Assignment 2 - Branch - origin/assignment-unit-3
